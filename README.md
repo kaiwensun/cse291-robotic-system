@@ -7,7 +7,7 @@
 
 ## Demo videos of small projects
 
-Video Demo    |Task Description
+Project name    |Links to video
 -------------------------|--------------------------
 Hello World              |[Assignment 1, Hello World Demo](https://youtu.be/mARzNtnqXKw) 
 Flash in Sequence        |[Assignment 1, Flash in Sequence Demo](https://youtu.be/iAOHVDinHYM)
