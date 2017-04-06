@@ -1,6 +1,6 @@
 # cse291-robotic-system
 
-## Demo video of the final project - Object tracker
+## Demo videos of the final project - Object tracker
 * [Demo](https://www.youtube.com/watch?v=2IMkxS31eUc)
 * [Project design description](https://www.youtube.com/watch?v=UmoRHNCJdCI)
 
